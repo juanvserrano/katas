@@ -1,0 +1,8 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/juanvserrano/katas.git",
+  "author": "Juan Varela <jvarela@theknotww.com>",
+  "license": "MIT"
+}
